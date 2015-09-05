@@ -1,5 +1,5 @@
 /***************************************************************************
- *   Copyright(C)2009-2015 by zhao_li<lizhao15431230@qq.com>               *
+ *   Copyright(C)2009-2014 by zhao_li<lizhao15431230@qq.com>               *
  *                                                                         *
  *   This program is free software; you can redistribute it and/or modify  *
  *   it under the terms of the GNU Lesser General Public License as        *
